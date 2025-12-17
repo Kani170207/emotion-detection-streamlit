@@ -4,8 +4,7 @@ An NLP-based web application that predicts human emotions from text input using 
 
 🚀 Live Demo
 
-🔗 (Add your Streamlit app link here once deployed)
-Example: https://emotion-detection-streamlit.streamlit.app
+🔗 https://emotion-detection-app-vuwjxg3zkv48qvnasadbxy.streamlit.app/
 
 📌 Features
 
@@ -107,3 +106,4 @@ IT Student
 
 🔗 LinkedIn:https://www.linkedin.com/in/kanish-v-044296376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 🔗 GitHub:https://github.com/Kani170207
+
